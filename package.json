@@ -1,0 +1,17 @@
+{
+  "name": "nftcurator",
+  "version": "1.0.2",
+  "description": "Curates and recommends NFTs based on user preferences, leveraging NFTapestry, NFTVisor, and brain.js for AI-driven insights.",
+  "main": "main.js",
+  "dependencies": {
+    "nftapestry": "^1.0.0",
+    "nftvisor": "^1.0.0",
+    "brain.js": "^2.0.0"
+  },
+  "author": "right1here2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/right1here2/nftcurator"
+  }
+}
